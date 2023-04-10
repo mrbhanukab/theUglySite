@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@500&family=Cookie&family=Gloria+Hallelujah&family=Great+Vibes&family=Inspiration&family=Pacifico&display=swap");
+
+body {
+  background-image: url("./bg.jpg");
+  background-repeat: repeat;
+  color: rgb(255, 255, 255);
+}
+
+.race {
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
+
+h1 {
+  font-family: "Cookie", cursive;
+}
+
+.one {
+  font-family: "Gloria Hallelujah", cursive;
+}
+
+p {
+  font-family: "Great Vibes", cursive;
+  font-size: 35px;
+}
+
+h2 {
+  font-family: "Inspiration", cursive;
+}
+
+h3 {
+  font-family: "Inspiration", cursive;
+  font-size: 50px;
+}
+
+.reality {
+  text-decoration: none;
+  background-color: rgba(255, 0, 0, 0.699);
+  text-align: center;
+  color: rgb(255, 255, 255);
+  padding: 1rem;
+  z-index: 999999;
+  position: fixed;
+  right: 0rem;
+  margin-right: 1rem;
+  font-family: "Comfortaa", cursive;
+}
